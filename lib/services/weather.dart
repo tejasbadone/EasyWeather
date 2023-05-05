@@ -3,7 +3,7 @@ import 'package:clima/services/networking.dart';
 
 import 'networking.dart';
 
-const apikey = '7d2b98567112833182c95f5a44e0d700';
+const apikey = '<INSERT YOUR API KEY>';
 const openWeatherAPI = 'https://api.openweathermap.org/data/2.5/weather';
 const openWeatherAPIForecast =
     'https://api.openweathermap.org/data/2.5/onecall';
