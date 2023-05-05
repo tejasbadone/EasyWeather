@@ -29,6 +29,32 @@ One of the key features of EasyWeather is its automatic location detection, whic
 ![App Screenshot](https://tejasbadone.web.app/assets/img/portfolio/apps/weather/weather-01.png)
 
 
+## Setup
+
+To get a local copy up and running follow these simple example steps.
+
+Prerequisite: https://flutter.dev/docs/get-started/install
+
+1. To get started, fork this repository to your GitHub account.
+
+2. Clone the repo.
+    ```sh
+     git clone https://github.com/tejasbadone/EasyWeather.git
+    ```
+3. Install packages.
+    ```sh
+     flutter pub get
+    ```
+4. Add OpenWeatherMap API KEY on lib/services/weather.dart
+    ```dart
+   const apikey = "<INSERT YOUR API KEY >";
+    ```
+5. Run project.
+    ```sh
+     flutter run
+    ```
+
+
 ## Tech Stack
 
 **Client:** Flutter
