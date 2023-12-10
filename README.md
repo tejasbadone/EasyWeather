@@ -15,6 +15,7 @@ EasyWeather leverages the power of Bloc for state management and Go Router for n
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge"> <a><img alt='Flutter' src='https://img.shields.io/badge/BLOC-100000?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=3448C5&color=3448C5'/></a>
 
 - **Server Side**
+  
   ![OpenWeatherMap](https://img.shields.io/badge/OPENWEATHERMAP-100000?style=for-the-badge&logo=null&logoColor=white&labelColor=EC6E4C&color=EC6E4C)
 
 ## Features
