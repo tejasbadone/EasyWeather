@@ -44,7 +44,9 @@ String formatTimeHr(int timeStamp) {
 String getGreetings() {
   final dateTime = DateTime.now();
 
-  if (dateTime.hour >= 5 && dateTime.hour < 12) {
+  print(dateTime.hour);
+
+  if (dateTime.hour > 4 && dateTime.hour < 12) {
     return 'Good Morning!';
   }
 
